@@ -11,7 +11,7 @@ from sklearn.metrics import mean_absolute_error
 from datetime import date
 import datetime
 
-crypt = ['XRP','USDT']
+crypt = ['XRP','XMR']
 np.random.seed(42)
 window_len = 100
 f_days = 10
